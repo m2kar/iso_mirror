@@ -1,3 +1,4 @@
+ikuai     https://www.ikuai8.com/download.php?n=/3.x/iso/iKuai8_x32_3.2.9_Build201911151520.iso -O iKuai8_x32_3.2.9_Build201911151520.iso
 ubuntu    https://mirrors.163.com/ubuntu-releases/18.04/ubuntu-18.04.3-desktop-amd64.iso
 ubuntu    https://mirrors.163.com/ubuntu-releases/18.04/ubuntu-18.04.3-live-server-amd64.iso
 deepin    https://mirrors.163.com/deepin-cd/15.11/deepin-15.11-amd64.iso
@@ -14,4 +15,3 @@ debian    http://mirrors.sohu.com/debian-cd/10.1.0-live/amd64/iso-hybrid/debian-
 debian    http://mirrors.sohu.com/debian-cd/9.5.0-live/amd64/iso-hybrid/debian-live-9.5.0-amd64-gnome.iso
 debian    http://mirrors.sohu.com/debian-cd/9.5.0-live/amd64/iso-hybrid/debian-live-9.5.0-amd64-xfce.iso
 fedora    http://mirrors.sohu.com/fedora/releases/31/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-31-1.9.iso
-ikuai     https://www.ikuai8.com/download.php?n=/3.x/iso/iKuai8_x32_3.2.9_Build201911151520.iso -O iKuai8_x32_3.2.9_Build201911151520.iso
